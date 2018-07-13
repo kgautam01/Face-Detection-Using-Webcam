@@ -6,9 +6,9 @@ PRE-REQUISITES :
 1. OpenCV(3+)
 
 2. Haar cascade files for :
-   >> Smile
-   >> Eye
-   >> Face
+   -Smile
+   -Eye
+   -Face
 (All are included in the repository)
 
 DESCRIPTION :
