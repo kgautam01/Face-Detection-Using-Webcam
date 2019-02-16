@@ -9,7 +9,6 @@
 * Smile
 * Eye
 * Face
-*(All are included in the repository)
 
 # Description
 
