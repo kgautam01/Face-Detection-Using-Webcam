@@ -1,17 +1,17 @@
 # Face-Detection-Using-Webcam
-A computer vision project detecting face, eyes and smile of a person using a webcam and also in a video being imported by the user.
+> A computer vision project detecting face, eyes and smile of a person using a webcam and also in a video being imported by the > user.
 
-PRE-REQUISITES :
+# Pre-requisites
 
 1. OpenCV(3+)
 
 2. Haar cascade files for :
-   -Smile
-   -Eye
-   -Face
-(All are included in the repository)
+* Smile
+* Eye
+* Face
+(*All are included in the repository)
 
-DESCRIPTION :
+# Description
 
 This computer vision project uses OpenCV for detecting the face, eyes and smile using webcam. It uses Haar cascade
 files to understand how to detect certain features as providede in the XML file itself. The person must be
