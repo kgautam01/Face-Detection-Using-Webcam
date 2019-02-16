@@ -1,5 +1,5 @@
 # Face-Detection-Using-Webcam
-> A computer vision project detecting face, eyes and smile of a person using a webcam and also in a video being imported by the > user.
+> A computer vision project detecting face, eyes and smile of a person using a webcam and also in a video being imported by the user.
 
 # Pre-requisites
 
@@ -9,7 +9,7 @@
 * Smile
 * Eye
 * Face
-(*All are included in the repository)
+*(All are included in the repository)
 
 # Description
 
